@@ -1,0 +1,43 @@
+# Dependency directories
+/node_modules
+
+# Built files
+/build
+/dist
+
+# Environment files
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+*.tmproj
+.vs
+
+# Compiled binary addons (Node-gyp)
+/build/Release
+/coverage
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.bak
+*.cache
+*.log
+*.orig
